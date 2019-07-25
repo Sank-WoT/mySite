@@ -4,7 +4,7 @@
   "description": "",
   "main": "jquery.drawsvg.js",
   "scripts": {
-    "test": "echo \"All good",
+    "test": "echo \"All good\"",
     "start": "node server.js"
   },
   "repository": {
